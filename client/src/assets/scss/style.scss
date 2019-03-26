@@ -1,0 +1,12 @@
+@import './config';
+
+
+// Components
+@import './components/navbar';
+@import './components//signup';
+
+.main {
+    margin-left: 15em;
+    height: 100vh;
+}
+
